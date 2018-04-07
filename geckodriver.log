@@ -1,0 +1,96 @@
+1523071195494	geckodriver	INFO	geckodriver 0.20.0
+1523071195500	geckodriver	INFO	Listening on 127.0.0.1:49713
+1523071195937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RmeE7urduUt7"
+1523071197586	Marionette	INFO	Enabled via --marionette
+1523071200608	Marionette	INFO	Listening on port 44675
+1523071200662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523071282298	geckodriver	INFO	geckodriver 0.20.0
+1523071282303	geckodriver	INFO	Listening on 127.0.0.1:43463
+1523071283635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nwv8mKCa3qFo"
+1523071284268	Marionette	INFO	Enabled via --marionette
+1523071285716	Marionette	INFO	Listening on port 45027
+1523071285750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.cliipa.com/basev/1.0.169/sbt.js, line 3: TypeError: x[_0x1fd3(...)] is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+1523071504775	geckodriver	INFO	geckodriver 0.20.0
+1523071504780	geckodriver	INFO	Listening on 127.0.0.1:55923
+1523071505827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VP2ocpzWXzUs"
+1523071506366	Marionette	INFO	Enabled via --marionette
+1523071507792	Marionette	INFO	Listening on port 42503
+1523071507846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.cliipa.com/basev/1.0.169/sbt.js, line 3: TypeError: x[_0x1fd3(...)] is null
+JavaScript error: https://www.watchcartoononline.io/steven-universe-episode-9-tiger-millionaire line 659 > Function, line 3115: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523071518077	geckodriver::marionette	ERROR	Failed to stop browser process
+1523072056638	geckodriver	INFO	geckodriver 0.20.0
+1523072056643	geckodriver	INFO	Listening on 127.0.0.1:57451
+1523072057693	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6E0IkPdLYVTx"
+1523072058222	Marionette	INFO	Enabled via --marionette
+1523072059702	Marionette	INFO	Listening on port 42235
+1523072059806	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523072081436	geckodriver	INFO	geckodriver 0.20.0
+1523072081441	geckodriver	INFO	Listening on 127.0.0.1:40199
+1523072082484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GFiSuTs4Zzqk"
+1523072083028	Marionette	INFO	Enabled via --marionette
+1523072084498	Marionette	INFO	Listening on port 39071
+1523072084618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.cliipa.com/basev/1.0.169/sbt.js, line 3: TypeError: x[_0x1fd3(...)] is null
+[Parent 31437, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523072119013	geckodriver	INFO	geckodriver 0.20.0
+1523072119018	geckodriver	INFO	Listening on 127.0.0.1:56873
+1523072120100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L85a3ac7Hmkr"
+1523072120924	Marionette	INFO	Enabled via --marionette
+1523072122538	Marionette	INFO	Listening on port 36201
+1523072122620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.cliipa.com/basev/1.0.169/sbt.js, line 3: TypeError: x[_0x1fd3(...)] is null
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523072136863	geckodriver::marionette	ERROR	Failed to stop browser process
+1523072172614	geckodriver	INFO	geckodriver 0.20.0
+1523072172619	geckodriver	INFO	Listening on 127.0.0.1:39875
+1523072173666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fKfQlJhDACBN"
+1523072174202	Marionette	INFO	Enabled via --marionette
+1523072175610	Marionette	INFO	Listening on port 46855
+1523072175678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.watchcartoononline.io/steven-universe-episode-9-tiger-millionaire line 659 > Function, line 3115: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523072188710	geckodriver::marionette	ERROR	Failed to stop browser process
+1523072261296	geckodriver	INFO	geckodriver 0.20.0
+1523072261301	geckodriver	INFO	Listening on 127.0.0.1:54101
+1523072262350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kGT36zT3ko8b"
+1523072262886	Marionette	INFO	Enabled via --marionette
+1523072264420	Marionette	INFO	Listening on port 46387
+1523072264474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.cliipa.com/basev/1.0.169/sbt.js, line 3: TypeError: x[_0x1fd3(...)] is null
+JavaScript error: https://st.bebi.com/bebi_v3.js, line 1: Error: remote script failed https://cdn.adtrue.com/rtb/async.js
+JavaScript error: https://www.watchcartoononline.io/steven-universe-episode-9-tiger-millionaire line 659 > Function, line 3115: NS_ERROR_NOT_INITIALIZED: 
+[Parent 32112, Gecko_IOThread] WARNING: pipe error (57): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523072270376	geckodriver::marionette	ERROR	Failed to stop browser process
+1523072283209	geckodriver	INFO	geckodriver 0.20.0
+1523072283214	geckodriver	INFO	Listening on 127.0.0.1:41157
+1523072284262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zAEncjkg84jR"
+1523072284812	Marionette	INFO	Enabled via --marionette
+1523072286236	Marionette	INFO	Listening on port 34525
+1523072286278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.watchcartoononline.io/steven-universe-episode-9-tiger-millionaire line 659 > Function, line 3115: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523072310425	geckodriver::marionette	ERROR	Failed to stop browser process
+1523072626375	geckodriver	INFO	geckodriver 0.20.0
+1523072626380	geckodriver	INFO	Listening on 127.0.0.1:53943
+1523072627428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tO1RT9Wb7AoJ"
+1523072627964	Marionette	INFO	Enabled via --marionette
+1523072629466	Marionette	INFO	Listening on port 33823
+1523072629552	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523072639796	geckodriver::marionette	ERROR	Failed to stop browser process
+1523072705390	geckodriver	INFO	geckodriver 0.20.0
+1523072705395	geckodriver	INFO	Listening on 127.0.0.1:38629
+1523072706595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6PBeuIhIVC1j"
+1523072707510	Marionette	INFO	Enabled via --marionette
+1523072709060	Marionette	INFO	Listening on port 33435
+1523072709122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.watchcartoononline.io/steven-universe-episode-9-tiger-millionaire line 659 > Function, line 3115: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523072742796	geckodriver::marionette	ERROR	Failed to stop browser process
