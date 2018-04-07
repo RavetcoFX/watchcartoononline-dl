@@ -36,23 +36,29 @@ def info_extractor(url):
         # webpage = urlopen(request).read()
         webpage = webpage.get_attribute("innerHTML")
         print(webpage)
-        driver.close()
 
         print("[watchcartoononline-dl] Finding video")
         video_url = re.search(
             r'<iframe [^>]*src="/inc/(.+?)"(.+?)>', webpage).group()
         video_url = 'https://www.watchcartoononline.io' + re.search(
             r'src="(.+?)"', video_url).group(1).replace(r' ', r'%20')
+        video_url = video_url.replace(r'&amp;', '&')
+        print(video_url)
 
         # "clicks" the "Click Here to Watch Free" button to so it can access the actual video file url
         # print("[watchcartoononline-dl]  Clicking stupid 'Watch Free' button"
-        params = urlencode(
-            {'fuck_you': '', 'confirm': 'Click Here to Watch Free!!'})
+        # params = urlencode(
+        #     {'fuck_you': '', 'confirm': 'Click Here to Watch Free!!'})
 
         print("[watchcartoononline-dl]  Getting video URL")
-        request = Request(video_url,
-                          params, headers=headers)
-        video_webpage = urlopen(request).read()
+        # request = Request(video_url,
+        #                   params, headers=headers)
+        # video_webpage = urlopen(request).read()
+        driver.get(video_url)
+        video_webpage = driver.find_element_by_tag_name("body")
+        video_webpage = video_webpage.get_attribute("innerHTML")
+        driver.close()
+        print(video_webpage)
         # scrapes the actual file url
         final_url = re.findall(r'file: "(.+?)"', video_webpage)
         # throws error if list is blank
